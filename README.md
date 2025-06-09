@@ -1,5 +1,5 @@
 
-# Tirth Patel 143
+# Tirth Patel
 
 
 ![banner](./assets/Tirth%20git%20background.png)
