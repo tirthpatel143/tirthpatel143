@@ -2,7 +2,7 @@
 # Tirth Patel 143
 =======
 
-![Preview](./assets/Tirth%20git%20background.png)
+![banner](./assets/Tirth%20git%20background.png)
 
 # 💫 Hello Everyone:
 I'm currently working on Data Analyst Based on Python & Power BI .<br><br>🚀 Currently growing through hands-on experience, technical events, and leadership roles in Projects<br>📚 Always eager to learn, collaborate, and contribute to meaningful tech solutions.<br><br>🎓 Education<br>📚 H.S.C from GSHSEB (2021 - 2022) - Performance : 65 %<br>🧑‍🎓 Bachelor's Degree in Computer Engineering @ LDRP-ITR, Gandhinagar (2022 - 2026)
