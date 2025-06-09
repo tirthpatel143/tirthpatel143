@@ -1,6 +1,6 @@
-<<<<<<< HEAD
+
 # Tirth Patel 143
-=======
+
 
 ![banner](./assets/Tirth%20git%20background.png)
 
@@ -27,5 +27,4 @@ I'm currently working on Data Analyst Based on Python & Power BI .<br><br>🚀 C
 ---
 [![](https://visitcount.itsvg.in/api?id=tirthpatel143&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
->>>>>>> 96dec74 (Tirth Patel)
+
