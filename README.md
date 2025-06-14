@@ -26,7 +26,7 @@ I'm currently working on Data Analyst Based on Python & Power BI .<br><br>🚀 C
 ![](https://github-readme-stats.vercel.app/api?username=tirthpatel143&theme=great-gatsby&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=tirthpatel143&theme=great-gatsby&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tirthpatel143&theme=great-gatsby&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=tirthpatel143&theme=radical&hide_border=false" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=tirthpatel143&radius=16&theme=merko&area=true&order=5&hide_border=true&hide_title=true" height="300" alt="activity-graph graph"  />
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
