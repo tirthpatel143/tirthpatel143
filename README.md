@@ -28,6 +28,8 @@ I'm currently working on AI/ML , Agentic AI Based on Python & Langchain/Llamaind
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tirthpatel143&theme=great-gatsby&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=tirthpatel143&radius=16&theme=merko&area=true&order=5&hide_border=true&hide_title=true" height="300" alt="activity-graph graph"  />
 
+![Snake](https://raw.githubusercontent.com/tirthpatel143/tirthpatel143/output/github-contribution-grid-snake.svg)
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 </div>
